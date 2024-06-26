@@ -1,4 +1,4 @@
-1。安全efuse控制器
+1.安全efuse控制器
 
 	propt[1]为1——non-secure操作，为0——secure操作
 
